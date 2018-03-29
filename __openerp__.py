@@ -9,6 +9,7 @@
         'sale',
     ],
     'data': [
+        'security/ir.model.access.csv',
         'views/sale_order_view.xml',
     ],
     'application': False,
