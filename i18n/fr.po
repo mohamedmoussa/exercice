@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-29 08:16+0000\n"
-"PO-Revision-Date: 2018-03-29 08:16+0000\n"
+"POT-Creation-Date: 2018-03-29 10:06+0000\n"
+"PO-Revision-Date: 2018-03-29 10:06+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -15,13 +15,22 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
-#. module: Exercice
-#: model:ir.model,name:Exercice.model_sale_order
-msgid "Quotation"
-msgstr "Devis"
 
+#. module: Exercice
+#: model:ir.model.fields,field_description:Exercice.field_task_page_name
+msgid "Number Page"
+msgstr "Numéro de la page"
+
+#. module: Exercice
+#: model:ir.model.fields,field_description:Exercice.field_sale_order_page_id
+msgid "Page"
+msgstr "Page"
+
+ 
 #. module: Exercice
 #: model:ir.model.fields,field_description:Exercice.field_sale_order_exercice
 msgid "Task"
 msgstr "Exercice"
+
+ 
 

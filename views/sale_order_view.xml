@@ -1,6 +1,5 @@
 <openerp>
     <data>
-
         <record id="view_sale_order_form_inherit" model="ir.ui.view">
             <field name="name">sale.order.form.inherit</field>
             <field name="model">sale.order</field>
@@ -8,13 +7,11 @@
             <field name="arch" type="xml">
             	<field name='note' position="after">
             		<group>
-					<field name="exercice" />
+						<field name="exercice" />
+						<field name="page_id"/>
 					</group>
 				</field>
-                
             </field>
         </record>
-
-     
     </data>
 </openerp>

@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 {
     'name': "Exercice",
     'version': "1.0",
