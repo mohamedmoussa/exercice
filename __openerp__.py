@@ -11,6 +11,7 @@
     'data': [
         'security/ir.model.access.csv',
         'views/sale_order_view.xml',
+        'report/sale_report_templates.xml',
     ],
     'application': False,
     'installable': True,

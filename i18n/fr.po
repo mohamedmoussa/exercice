@@ -15,6 +15,11 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
+#. module: Exercice
+#: model:ir.ui.view,arch_db:Exercice.report_saleorder_document_inherit
+msgid "<strong>Task:</strong>"
+msgstr "<strong>Exercice:</strong>"
+
 
 #. module: Exercice
 #: model:ir.model.fields,field_description:Exercice.field_task_page_name
